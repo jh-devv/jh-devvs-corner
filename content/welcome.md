@@ -6,6 +6,6 @@ date = 2023-08-30
 tags = ["introduction"]
 +++
 
-Welcome to jh-devv cozy corner!
+Welcome to jh-devv's cozy corner!
 
 This is my place to share my intrests and projects for you to enjoy!
