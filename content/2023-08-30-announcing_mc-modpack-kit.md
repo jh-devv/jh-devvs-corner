@@ -45,7 +45,7 @@ Along the way, I found out there were other ways to do the same, but manual!?!? 
    - You can now merge the release PR that release please has made, sit back and enjoy a cup of coffee! ☕ ^-^
 
 ## Next Steps
-In the future, I plan to make mc-modpack-kit a family of sorts of modpack kits, or even a "framework" for them! This could be useful for as an example Terraria modpack
+In the future, I plan to make mc-modpack-kit a family of sorts of modpack kits, or even a "framework" for them[Title](http://127.0.0.1:1111/about)! This could be useful for as an example Terraria modpack
 
 I hope you find this "project" of mine useful and basically thats that :3
 
