@@ -49,4 +49,4 @@ In the future, I plan to make mc-modpack-kit a family of sorts of modpack kits, 
 
 I hope you find this "project" of mine useful and basically thats that :3
 
-> By the way, don't send me **any** of your political opinions. Keep them for yourself! I wan't to make the communnity friendly for e.g. LGBT.
+> By the way, don't send me **any** of your political opinions. Keep them for yourself! I wan't to make the community friendly for e.g. LGBT!.
