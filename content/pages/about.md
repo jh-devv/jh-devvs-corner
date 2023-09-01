@@ -26,4 +26,4 @@ Good things to know about me:
     - EDM (LoFi, Deepchill, Atmospheric, Hardcore ew/Hardstyle, Techno)
     - Classical (Piano, Orchestral)
     - Japanese (PoP, Modernist, Indie, Alternative)
-    + On top of this some other Indie/Alternative/Niece Genres
+    + On top of these, some other Indie/Alternative/Niece Genres
