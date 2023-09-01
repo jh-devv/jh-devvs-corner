@@ -17,7 +17,7 @@ Experienced DevOps Engineer with a proven track record of designing, implementin
 
 - **DevOps Practices:** CI/CD, Infrastructure as Code (IaC), Automation
 - **Containerization:** Docker, Kubernetes
-- **Configuration Management:** Ansible
+- **infrastructure as code (IaC):** Terraform, Ansible
 - **Version Control:** Git, GitLab, GitHub
 - **Scripting:** Bash, Make, Python
 - **Monitoring and Logging:** Prometheus, Grafana
@@ -53,9 +53,10 @@ Proactive learner and hands-on explorer with a comprehensive home lab environmen
 - **Hardware Configuration:** Assembled servers, set up virtualization hosts, configured managed switches, and deployed NAS units to replicate real-world IT setups.
 - **Virtualization Proficiency:** Utilized Proxmox to create VMs and containers, allowing simulation of diverse network architectures and software environments.
 - **Networking Insights:** Configured VLANs, subnets, and firewalls with PFSense/OPNSense, deepening understanding of network segmentation and security protocols.
-- **Automation and Scripting:** Implemented Ansible and Docker Compose for automation, showcasing scripting prowess and process optimization.
+- **Automation and Scripting:** Implemented Ansible, Terraform, CloudInit and Docker Compose for automation, showcasing scripting prowess and process optimization.
 - **Cybersecurity Exploration:** Conducted routine security assessments, identifying vulnerabilities and implementing mitigation measures to stay current with threats.
 - **Monitoring and Documentation:** Employed Grafana and Prometheus for effective monitoring and maintained detailed documentation for configurations and troubleshooting.
+- **Kubernetes Integration (In Progress):** Currently proficient with Docker for containerization, my next step is to delve into Kubernetes for advanced container orchestration and management. This will enable me to efficiently scale and manage containerized applications in a dynamic and resilient manner.
 
 ## Projects
 
