@@ -22,3 +22,8 @@ Good things to know about me:
 - You could also say that:
     - I like coffee! ☕
     - I do film camera photography!
+- My favorite music genres are very broad, some of these include:
+    - EDM (LoFi, Deepchill, Atmospheric, Hardcore ew/Hardstyle, Techno)
+    - Classical (Piano, Orchestral)
+    - Japanese (PoP, Modernist, Indie, Alternative)
+    + On top of this some other Indie/Alternative/Niece Genres
