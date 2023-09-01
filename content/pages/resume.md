@@ -17,7 +17,7 @@ Experienced DevOps Engineer with a proven track record of designing, implementin
 
 - **DevOps Practices:** CI/CD, Infrastructure as Code (IaC), Automation
 - **Containerization:** Docker, Kubernetes
-- **infrastructure as code (IaC):** Terraform, Ansible
+- **Infrastructure as code (IaC):** Terraform, Ansible
 - **Version Control:** Git, GitLab, GitHub
 - **Scripting:** Bash, Make, Python
 - **Monitoring and Logging:** Prometheus, Grafana
